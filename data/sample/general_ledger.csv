@@ -1,0 +1,982 @@
+Transaction_ID,Date,Description,Category,Amount,Account
+TXN-00458,2024-11-15,Rent payment,Rent,-2897.44,6100
+TXN-00930,2024-02-06,Hotel accommodation,Travel & Entertainment,-2555.21,6400
+TXN-00330,2024-11-11,Business trip - airfare,Travel & Entertainment,-747.32,6400
+TXN-00350,2024-01-11,Supplier invoice,Vendor Payment,-7889.33,5100
+TXN-00784,2024-11-11,Supplier invoice,Vendor Payment,-5900.48,5100
+TXN-00134,2024-07-21,Client dinner,Travel & Entertainment,-572.17,6400
+TXN-00121,2024-09-03,Stationery purchase,Office Supplies,-474.48,6300
+TXN-00436,2024-03-26,Supplier invoice,Vendor Payment,-12254.21,5100
+TXN-00095,2024-09-15,Wire transfer fee,Bank Fees,-46.95,6900
+TXN-00763,2024-11-17,Deposit interest credit,Interest Income,360.54,4900
+TXN-00456,2024-02-26,Hotel accommodation,Travel & Entertainment,-2441.17,6400
+TXN-00007,2024-05-26,Customer deposit,Sales Revenue,13645.92,4000
+TXN-00687,2024-03-01,Stationery purchase,Office Supplies,-776.41,6300
+TXN-00484,2024-07-24,Online ad campaign,Marketing,-7517.31,6500
+TXN-00769,2024-05-30,Supplier invoice,Vendor Payment,-14066.23,5100
+TXN-00815,2024-07-29,Trade fair booth,Marketing,-4096.03,6500
+TXN-00652,2024-09-26,Monthly office rent,Rent,-4499.33,6100
+TXN-00734,2024-10-17,Online ad campaign,Marketing,-7903.03,6500
+TXN-00536,2024-11-10,Supplier invoice,Vendor Payment,-12213.94,5100
+TXN-00819,2024-01-25,Warehouse lease,Rent,-2134.95,6100
+TXN-00551,2024-07-12,Wire transfer fee,Bank Fees,-108.35,6900
+TXN-00872,2024-10-06,Payroll transfer,Payroll,-9833.56,6000
+TXN-00237,2024-02-21,Warehouse lease,Rent,-5623.03,6100
+TXN-00598,2024-11-06,Online ad campaign,Marketing,-2710.97,6500
+TXN-00818,2024-06-19,Vendor payment - materials,Vendor Payment,-6318.44,5100
+TXN-00614,2024-12-01,Water utility,Utilities,-398.68,6200
+TXN-00660,2024-02-15,Payroll transfer,Payroll,-1946.79,6000
+TXN-00554,2024-04-27,Water utility,Utilities,-245.17,6200
+TXN-00933,2024-03-05,Monthly salary run,Payroll,-1749.44,6000
+TXN-00802,2024-11-19,Water utility,Utilities,-935.71,6200
+TXN-00806,2024-04-26,Online ad campaign,Marketing,-3401.29,6500
+TXN-00447,2024-08-14,Internet & telecom,Utilities,-289.2,6200
+TXN-00742,2024-11-20,Print advertising,Marketing,-4106.9,6500
+TXN-00307,2024-03-22,Electricity bill,Utilities,-1004.52,6200
+TXN-00578,2024-02-20,Hotel accommodation,Travel & Entertainment,-2680.64,6400
+TXN-00939,2024-01-23,Stationery purchase,Office Supplies,-890.4,6300
+TXN-00390,2024-05-28,Vendor payment - materials,Vendor Payment,-1234.99,5100
+TXN-00396,2024-12-30,Account maintenance fee,Bank Fees,-30.57,6900
+TXN-00268,2024-09-24,Electricity bill,Utilities,-1013.37,6200
+TXN-00693,2024-06-12,Savings interest,Interest Income,64.49,4900
+TXN-00120,2024-01-04,Contractor fee,Vendor Payment,-14882.22,5100
+TXN-00042,2024-07-19,Trade fair booth,Marketing,-3861.35,6500
+TXN-00387,2024-08-20,Customer deposit,Sales Revenue,8054.16,4000
+TXN-00160,2024-01-17,Print advertising,Marketing,-5280.29,6500
+TXN-00735,2024-05-10,Monthly salary run,Payroll,-6251.33,6000
+TXN-00035,2024-08-02,Wire transfer fee,Bank Fees,-23.71,6900
+TXN-09015,2024-08-05,Monthly salary run,Payroll,-9535.87,6000
+TXN-00036,2024-08-26,Customer deposit,Sales Revenue,4232.0,4000
+TXN-00413,2024-05-08,Payroll transfer,Payroll,-6690.3,6000
+TXN-00091,2024-09-14,Stationery purchase,Office Supplies,-692.91,6300
+TXN-00950,2024-05-03,Monthly salary run,Payroll,-5333.0,6000
+TXN-00429,2024-07-02,Customer deposit,Sales Revenue,10370.55,4000
+TXN-00155,2024-04-21,Office equipment,Office Supplies,-95.66,6300
+TXN-00275,2024-06-01,Stationery purchase,Office Supplies,-564.47,6300
+TXN-00342,2024-11-09,Employee wages,Payroll,-3419.49,6000
+TXN-00759,2024-03-29,Vendor payment - materials,Vendor Payment,-10807.93,5100
+TXN-00892,2024-02-05,Online ad campaign,Marketing,-6149.05,6500
+TXN-00862,2024-08-26,Deposit interest credit,Interest Income,150.71,4900
+TXN-00770,2024-07-07,Internet & telecom,Utilities,-747.51,6200
+TXN-00454,2024-04-27,Invoice payment received,Sales Revenue,12245.72,4000
+TXN-00801,2024-12-05,Invoice payment received,Sales Revenue,1337.4,4000
+TXN-00181,2024-05-28,Savings interest,Interest Income,88.85,4900
+TXN-00518,2024-05-20,Customer deposit,Sales Revenue,9032.76,4000
+TXN-00619,2024-11-27,Invoice payment received,Sales Revenue,13908.43,4000
+TXN-00018,2024-04-25,Supplier invoice,Vendor Payment,-7082.21,5100
+TXN-00269,2024-10-22,Monthly office rent,Rent,-2379.74,6100
+TXN-00672,2024-01-02,Rent payment,Rent,-1206.41,6100
+TXN-00079,2024-07-25,Client dinner,Travel & Entertainment,-159.44,6400
+TXN-00245,2024-07-10,Rent payment,Rent,-937.97,6100
+TXN-00066,2024-11-01,Electricity bill,Utilities,-1039.72,6200
+TXN-00482,2024-03-08,Account maintenance fee,Bank Fees,-115.2,6900
+TXN-00369,2024-06-12,Product sale,Sales Revenue,10914.5,4000
+TXN-00453,2024-04-19,Stationery purchase,Office Supplies,-380.84,6300
+TXN-00590,2024-08-14,Wire transfer fee,Bank Fees,-36.45,6900
+TXN-00727,2024-02-24,Online ad campaign,Marketing,-2385.74,6500
+TXN-00371,2024-02-11,Water utility,Utilities,-897.06,6200
+TXN-00674,2024-01-07,Product sale,Sales Revenue,15561.05,4000
+TXN-00664,2024-09-09,Monthly salary run,Payroll,-11219.71,6000
+TXN-00105,2024-01-28,Trade fair booth,Marketing,-3211.99,6500
+TXN-00903,2024-06-14,Monthly salary run,Payroll,-6079.43,6000
+TXN-00109,2024-06-03,Printer consumables,Office Supplies,-840.95,6300
+TXN-00149,2024-01-16,Wire transfer fee,Bank Fees,-114.09,6900
+TXN-00810,2024-07-31,Savings interest,Interest Income,352.37,4900
+TXN-00102,2024-05-13,Supplier invoice,Vendor Payment,-12003.16,5100
+TXN-00568,2024-01-18,Payroll transfer,Payroll,-8047.24,6000
+TXN-00847,2024-12-22,Vendor payment - materials,Vendor Payment,-5456.44,5100
+TXN-00510,2024-07-07,Employee wages,Payroll,-4663.86,6000
+TXN-00517,2024-08-19,Wire transfer fee,Bank Fees,-13.01,6900
+TXN-00192,2024-05-03,Monthly office rent,Rent,-2998.22,6100
+TXN-00423,2024-06-13,Print advertising,Marketing,-4909.45,6500
+TXN-00474,2024-09-03,Printer consumables,Office Supplies,-162.51,6300
+TXN-00681,2024-07-28,Trade fair booth,Marketing,-7760.25,6500
+TXN-00603,2024-07-13,Online ad campaign,Marketing,-6820.38,6500
+TXN-00014,2024-03-20,Trade fair booth,Marketing,-2137.5,6500
+TXN-00894,2024-11-04,Deposit interest credit,Interest Income,388.97,4900
+TXN-00678,2024-08-01,Product sale,Sales Revenue,18379.63,4000
+TXN-00777,2024-12-12,Printer consumables,Office Supplies,-836.35,6300
+TXN-00786,2024-10-18,Client dinner,Travel & Entertainment,-386.88,6400
+TXN-00319,2024-12-13,Interest accrual,Interest Income,313.05,4900
+TXN-00574,2024-02-24,Customer deposit,Sales Revenue,5948.01,4000
+TXN-00583,2024-12-06,Vendor payment - materials,Vendor Payment,-11115.22,5100
+TXN-00881,2024-05-09,Customer deposit,Sales Revenue,15504.76,4000
+TXN-00444,2024-09-27,Printer consumables,Office Supplies,-207.51,6300
+TXN-00426,2024-12-16,Vendor payment - materials,Vendor Payment,-4585.23,5100
+TXN-00259,2024-04-13,Contractor fee,Vendor Payment,-13196.58,5100
+TXN-00060,2024-07-08,Warehouse lease,Rent,-1454.2,6100
+TXN-00852,2024-06-19,Account maintenance fee,Bank Fees,-14.74,6900
+TXN-00287,2024-01-02,Vendor payment - materials,Vendor Payment,-6579.93,5100
+TXN-00623,2024-09-24,Contractor fee,Vendor Payment,-5136.54,5100
+TXN-00143,2024-11-03,Payroll transfer,Payroll,-3042.07,6000
+TXN-00633,2024-07-07,Office equipment,Office Supplies,-68.34,6300
+TXN-00256,2024-11-25,Vendor payment - materials,Vendor Payment,-14488.16,5100
+TXN-00386,2024-12-30,Vendor payment - materials,Vendor Payment,-2381.9,5100
+TXN-00305,2024-08-25,Business trip - airfare,Travel & Entertainment,-402.46,6400
+TXN-00004,2024-06-05,Stationery purchase,Office Supplies,-801.43,6300
+TXN-00680,2024-02-16,Interest accrual,Interest Income,206.38,4900
+TXN-00251,2024-11-16,Contractor fee,Vendor Payment,-5721.3,5100
+TXN-00526,2024-04-20,Internet & telecom,Utilities,-660.99,6200
+TXN-00684,2024-11-17,Savings interest,Interest Income,91.73,4900
+TXN-00437,2024-07-23,Client dinner,Travel & Entertainment,-1024.63,6400
+TXN-00481,2024-06-20,Payroll transfer,Payroll,-7998.62,6000
+TXN-00704,2024-08-05,Vendor payment - materials,Vendor Payment,-13299.38,5100
+TXN-00176,2024-11-03,Office equipment,Office Supplies,-359.13,6300
+TXN-00473,2024-08-02,Printer consumables,Office Supplies,-50.9,6300
+TXN-00440,2024-11-27,Electricity bill,Utilities,-547.39,6200
+TXN-00528,2024-05-23,Contractor fee,Vendor Payment,-3615.05,5100
+TXN-00809,2024-07-27,Internet & telecom,Utilities,-538.87,6200
+TXN-00719,2024-07-13,Monthly salary run,Payroll,-7069.63,6000
+TXN-00003,2024-08-12,Monthly office rent,Rent,-5688.1,6100
+TXN-00373,2024-07-19,Printer consumables,Office Supplies,-675.78,6300
+TXN-09007,2024-08-04,Payroll transfer,Payroll,-8659.91,6000
+TXN-00755,2024-12-01,Client dinner,Travel & Entertainment,-2405.72,6400
+TXN-00202,2024-07-03,Deposit interest credit,Interest Income,50.55,4900
+TXN-00157,2024-03-30,Supplier invoice,Vendor Payment,-12381.99,5100
+TXN-00416,2024-01-07,Warehouse lease,Rent,-5150.39,6100
+TXN-00074,2024-11-03,Vendor payment - materials,Vendor Payment,-14303.25,5100
+TXN-00118,2024-08-21,Vendor payment - materials,Vendor Payment,-7611.34,5100
+TXN-00771,2024-02-02,Monthly office rent,Rent,-4510.65,6100
+TXN-00480,2024-10-14,Supplier invoice,Vendor Payment,-13037.87,5100
+TXN-00112,2024-09-07,Online ad campaign,Marketing,-6357.29,6500
+TXN-00497,2024-12-08,Supplier invoice,Vendor Payment,-7941.74,5100
+TXN-00383,2024-06-04,Interest accrual,Interest Income,284.72,4900
+TXN-00405,2024-03-21,Stationery purchase,Office Supplies,-458.18,6300
+TXN-00949,2024-09-29,Interest accrual,Interest Income,104.09,4900
+TXN-00588,2024-02-10,Customer deposit,Sales Revenue,24073.9,4000
+TXN-00346,2024-07-06,Payroll transfer,Payroll,-9080.02,6000
+TXN-00389,2024-10-09,Card processing fee,Bank Fees,-107.23,6900
+TXN-00009,2024-12-20,Payroll transfer,Payroll,-2819.47,6000
+TXN-09001,2024-01-17,Vendor payment - materials,Vendor Payment,-11925.61,5100
+TXN-00057,2024-11-06,Business trip - airfare,Travel & Entertainment,-2292.99,6400
+TXN-00341,2024-03-26,Monthly office rent,Rent,-3610.48,6100
+TXN-00468,2024-06-09,Hotel accommodation,Travel & Entertainment,-1017.54,6400
+TXN-00243,2024-03-03,Product sale,Sales Revenue,1444.28,4000
+TXN-00085,2024-01-25,Rent payment,Rent,-3347.09,6100
+TXN-00698,2024-08-30,Client dinner,Travel & Entertainment,-1055.12,6400
+TXN-00820,2024-03-12,Interest accrual,Interest Income,388.06,4900
+TXN-00126,2024-02-29,Client dinner,Travel & Entertainment,-255.85,6400
+TXN-00336,2024-01-18,Wire transfer fee,Bank Fees,-142.58,6900
+TXN-00871,2024-04-24,Stationery purchase,Office Supplies,-820.62,6300
+TXN-00495,2024-02-20,Employee wages,Payroll,-4090.61,6000
+TXN-00234,2024-06-12,Print advertising,Marketing,-1834.13,6500
+TXN-00935,2024-08-13,Printer consumables,Office Supplies,-226.54,6300
+TXN-00782,2024-11-25,Monthly office rent,Rent,-2252.65,6100
+TXN-00699,2024-12-22,Customer deposit,Sales Revenue,21219.64,4000
+TXN-00196,2024-06-25,Invoice payment received,Sales Revenue,1854.13,4000
+TXN-00082,2024-03-04,Office equipment,Office Supplies,-410.67,6300
+TXN-00315,2024-03-28,Employee wages,Payroll,-6292.24,6000
+TXN-00433,2024-05-06,Account maintenance fee,Bank Fees,-43.38,6900
+TXN-00415,2024-07-21,Customer deposit,Sales Revenue,14027.99,4000
+TXN-00195,2024-04-30,Deposit interest credit,Interest Income,147.5,4900
+TXN-00321,2024-05-14,Electricity bill,Utilities,-754.05,6200
+TXN-00312,2024-12-03,Rent payment,Rent,-3626.18,6100
+TXN-00797,2024-12-26,Interest accrual,Interest Income,372.05,4900
+TXN-00208,2024-11-06,Interest accrual,Interest Income,163.5,4900
+TXN-00051,2024-10-22,Online ad campaign,Marketing,-7588.15,6500
+TXN-00190,2024-07-15,Electricity bill,Utilities,-296.21,6200
+TXN-00496,2024-01-14,Office equipment,Office Supplies,-668.14,6300
+TXN-00522,2024-09-11,Contractor fee,Vendor Payment,-11295.65,5100
+TXN-00308,2024-07-21,Hotel accommodation,Travel & Entertainment,-3417.57,6400
+TXN-00483,2024-03-03,Payroll transfer,Payroll,-9698.8,6000
+TXN-00249,2024-10-20,Trade fair booth,Marketing,-6325.2,6500
+TXN-00187,2024-09-21,Vendor payment - materials,Vendor Payment,-3384.64,5100
+TXN-00758,2024-11-29,Internet & telecom,Utilities,-458.5,6200
+TXN-00931,2024-05-20,Business trip - airfare,Travel & Entertainment,-3029.91,6400
+TXN-00811,2024-05-20,Invoice payment received,Sales Revenue,22396.71,4000
+TXN-00224,2024-03-05,Payroll transfer,Payroll,-11294.19,6000
+TXN-00828,2024-02-29,Card processing fee,Bank Fees,-86.76,6900
+TXN-00242,2024-04-11,Client dinner,Travel & Entertainment,-2060.1,6400
+TXN-00420,2024-08-19,Hotel accommodation,Travel & Entertainment,-3065.36,6400
+TXN-00577,2024-04-26,Interest accrual,Interest Income,220.59,4900
+TXN-00858,2024-06-24,Product sale,Sales Revenue,3843.53,4000
+TXN-00427,2024-12-17,Account maintenance fee,Bank Fees,-33.3,6900
+TXN-00201,2024-05-15,Internet & telecom,Utilities,-173.51,6200
+TXN-00912,2024-04-18,Supplier invoice,Vendor Payment,-11508.33,5100
+TXN-00239,2024-07-25,Electricity bill,Utilities,-110.46,6200
+TXN-00677,2024-07-29,Client dinner,Travel & Entertainment,-336.56,6400
+TXN-00048,2024-05-11,Wire transfer fee,Bank Fees,-113.69,6900
+TXN-00705,2024-02-27,Contractor fee,Vendor Payment,-2296.26,5100
+TXN-00641,2024-09-25,Monthly office rent,Rent,-1728.74,6100
+TXN-00020,2024-01-14,Printer consumables,Office Supplies,-184.77,6300
+TXN-00575,2024-08-08,Invoice payment received,Sales Revenue,18701.2,4000
+TXN-00206,2024-08-02,Employee wages,Payroll,-7023.64,6000
+TXN-00494,2024-06-07,Warehouse lease,Rent,-4891.84,6100
+TXN-00404,2024-11-30,Savings interest,Interest Income,306.45,4900
+TXN-00530,2024-06-01,Deposit interest credit,Interest Income,285.46,4900
+TXN-00910,2024-09-25,Customer deposit,Sales Revenue,9126.95,4000
+TXN-00808,2024-08-10,Supplier invoice,Vendor Payment,-4125.16,5100
+TXN-00640,2024-01-11,Deposit interest credit,Interest Income,357.76,4900
+TXN-00542,2024-06-27,Invoice payment received,Sales Revenue,5688.42,4000
+TXN-00178,2024-08-20,Supplier invoice,Vendor Payment,-4858.29,5100
+TXN-00911,2024-09-27,Online ad campaign,Marketing,-1520.12,6500
+TXN-00061,2024-04-08,Interest accrual,Interest Income,268.66,4900
+TXN-00900,2024-03-01,Monthly office rent,Rent,-4593.37,6100
+TXN-00883,2024-08-02,Printer consumables,Office Supplies,-784.77,6300
+TXN-00833,2024-01-09,Stationery purchase,Office Supplies,-603.37,6300
+TXN-00217,2024-01-09,Customer deposit,Sales Revenue,8366.6,4000
+TXN-00746,2024-09-06,Water utility,Utilities,-347.66,6200
+TXN-00595,2024-03-25,Electricity bill,Utilities,-227.43,6200
+TXN-00732,2024-01-05,Stationery purchase,Office Supplies,-501.35,6300
+TXN-09020,2024-05-24,Contractor fee,Vendor Payment,-11408.77,5100
+TXN-00791,2024-06-06,Product sale,Sales Revenue,8207.25,4000
+TXN-00100,2024-02-13,Contractor fee,Vendor Payment,-2681.95,5100
+TXN-00229,2024-04-04,Client dinner,Travel & Entertainment,-1176.85,6400
+TXN-00731,2024-12-10,Print advertising,Marketing,-3642.76,6500
+TXN-00539,2024-02-10,Business trip - airfare,Travel & Entertainment,-3167.89,6400
+TXN-00375,2024-11-12,Wire transfer fee,Bank Fees,-95.89,6900
+TXN-00889,2024-03-22,Product sale,Sales Revenue,17742.55,4000
+TXN-00182,2024-09-01,Supplier invoice,Vendor Payment,-13438.77,5100
+TXN-00013,2024-11-02,Trade fair booth,Marketing,-1780.58,6500
+TXN-00928,2024-11-23,Electricity bill,Utilities,-129.51,6200
+TXN-00086,2024-09-28,Trade fair booth,Marketing,-5112.79,6500
+TXN-09016,2024-03-12,Supplier invoice,Vendor Payment,-1634.63,5100
+TXN-00645,2024-09-13,Print advertising,Marketing,-5839.81,6500
+TXN-00488,2024-08-26,Client dinner,Travel & Entertainment,-2886.13,6400
+TXN-00648,2024-09-21,Hotel accommodation,Travel & Entertainment,-1106.93,6400
+TXN-00874,2024-11-15,Supplier invoice,Vendor Payment,-10535.11,5100
+TXN-00670,2024-12-27,Contractor fee,Vendor Payment,-13607.35,5100
+TXN-00136,2024-11-02,Internet & telecom,Utilities,-226.55,6200
+TXN-00655,2024-02-15,Business trip - airfare,Travel & Entertainment,-2736.14,6400
+TXN-00310,2024-10-19,Contractor fee,Vendor Payment,-2078.64,5100
+TXN-00161,2024-08-18,Deposit interest credit,Interest Income,160.2,4900
+TXN-00263,2024-06-17,Monthly salary run,Payroll,-11812.52,6000
+TXN-00635,2024-08-20,Contractor fee,Vendor Payment,-12762.12,5100
+TXN-00463,2024-04-01,Online ad campaign,Marketing,-1605.2,6500
+TXN-00741,2024-10-08,Card processing fee,Bank Fees,-43.54,6900
+TXN-00890,2024-07-20,Payroll transfer,Payroll,-3645.78,6000
+TXN-00485,2024-04-26,Stationery purchase,Office Supplies,-408.28,6300
+TXN-00108,2024-10-08,Monthly office rent,Rent,-2998.56,6100
+TXN-00203,2024-06-06,Printer consumables,Office Supplies,-127.33,6300
+TXN-00050,2024-07-06,Print advertising,Marketing,-5330.97,6500
+TXN-00790,2024-03-15,Product sale,Sales Revenue,12853.37,4000
+TXN-00348,2024-09-04,Deposit interest credit,Interest Income,79.22,4900
+TXN-00877,2024-02-08,Client dinner,Travel & Entertainment,-512.85,6400
+TXN-00606,2024-02-29,Business trip - airfare,Travel & Entertainment,-936.48,6400
+TXN-00122,2024-03-17,Rent payment,Rent,-1295.04,6100
+TXN-00717,2024-10-01,Client dinner,Travel & Entertainment,-1427.73,6400
+TXN-00188,2024-05-13,Electricity bill,Utilities,-723.64,6200
+TXN-00017,2024-08-07,Business trip - airfare,Travel & Entertainment,-2159.8,6400
+TXN-00636,2024-04-25,Monthly office rent,Rent,-1608.07,6100
+TXN-00665,2024-01-22,Client dinner,Travel & Entertainment,-3259.14,6400
+TXN-00531,2024-02-25,Business trip - airfare,Travel & Entertainment,-2624.46,6400
+TXN-00299,2024-04-28,Monthly salary run,Payroll,-7458.21,6000
+TXN-00927,2024-03-26,Client dinner,Travel & Entertainment,-662.49,6400
+TXN-00107,2024-06-13,Online ad campaign,Marketing,-1358.61,6500
+TXN-09003,2024-09-30,Warehouse lease,Rent,-4990.02,6100
+TXN-00024,2024-06-22,Savings interest,Interest Income,368.66,4900
+TXN-00816,2024-12-07,Account maintenance fee,Bank Fees,-27.01,6900
+TXN-00070,2024-02-12,Stationery purchase,Office Supplies,-269.5,6300
+TXN-00547,2024-07-20,Printer consumables,Office Supplies,-530.61,6300
+TXN-00430,2024-07-16,Print advertising,Marketing,-6697.85,6500
+TXN-00302,2024-05-30,Wire transfer fee,Bank Fees,-145.47,6900
+TXN-00924,2024-12-09,Supplier invoice,Vendor Payment,-10408.48,5100
+TXN-00632,2024-03-19,Electricity bill,Utilities,-366.29,6200
+TXN-00332,2024-09-26,Water utility,Utilities,-667.8,6200
+TXN-00365,2024-11-25,Supplier invoice,Vendor Payment,-9539.77,5100
+TXN-00857,2024-01-04,Employee wages,Payroll,-10700.81,6000
+TXN-00075,2024-10-26,Warehouse lease,Rent,-2126.56,6100
+TXN-00219,2024-12-30,Office equipment,Office Supplies,-782.21,6300
+TXN-00919,2024-01-12,Monthly salary run,Payroll,-7523.23,6000
+TXN-00266,2024-02-11,Client dinner,Travel & Entertainment,-1508.26,6400
+TXN-00876,2024-11-25,Hotel accommodation,Travel & Entertainment,-397.33,6400
+TXN-00111,2024-10-08,Payroll transfer,Payroll,-2948.97,6000
+TXN-00524,2024-03-16,Account maintenance fee,Bank Fees,-113.18,6900
+TXN-09013,2024-01-04,Supplier invoice,Vendor Payment,-13985.64,5100
+TXN-00464,2024-10-16,Stationery purchase,Office Supplies,-428.17,6300
+TXN-00186,2024-01-22,Printer consumables,Office Supplies,-843.28,6300
+TXN-00571,2024-11-11,Savings interest,Interest Income,34.26,4900
+TXN-00608,2024-10-09,Business trip - airfare,Travel & Entertainment,-3477.85,6400
+TXN-00434,2024-11-23,Contractor fee,Vendor Payment,-13716.62,5100
+TXN-00795,2024-03-17,Stationery purchase,Office Supplies,-694.85,6300
+TXN-00062,2024-10-18,Online ad campaign,Marketing,-5295.81,6500
+TXN-00340,2024-08-14,Savings interest,Interest Income,154.43,4900
+TXN-00582,2024-01-04,Card processing fee,Bank Fees,-81.66,6900
+TXN-00689,2024-03-07,Stationery purchase,Office Supplies,-232.7,6300
+TXN-00659,2024-03-27,Customer deposit,Sales Revenue,6516.37,4000
+TXN-00787,2024-07-02,Customer deposit,Sales Revenue,5451.8,4000
+TXN-00789,2024-01-02,Client dinner,Travel & Entertainment,-3255.56,6400
+TXN-00722,2024-07-25,Deposit interest credit,Interest Income,141.21,4900
+TXN-00869,2024-02-19,Stationery purchase,Office Supplies,-537.02,6300
+TXN-00940,2024-06-13,Client dinner,Travel & Entertainment,-593.44,6400
+TXN-00135,2024-03-14,Trade fair booth,Marketing,-904.35,6500
+TXN-00609,2024-12-29,Deposit interest credit,Interest Income,213.08,4900
+TXN-00749,2024-05-11,Electricity bill,Utilities,-1033.8,6200
+TXN-00630,2024-08-07,Water utility,Utilities,-413.82,6200
+TXN-00058,2024-07-02,Vendor payment - materials,Vendor Payment,-5266.96,5100
+TXN-00572,2024-09-16,Office equipment,Office Supplies,-413.22,6300
+TXN-00803,2024-08-17,Hotel accommodation,Travel & Entertainment,-2140.24,6400
+TXN-00737,2024-06-05,Trade fair booth,Marketing,-3916.42,6500
+TXN-00756,2024-11-09,Stationery purchase,Office Supplies,-179.56,6300
+TXN-00292,2024-10-10,Monthly salary run,Payroll,-4668.53,6000
+TXN-00047,2024-07-11,Office equipment,Office Supplies,-805.39,6300
+TXN-00278,2024-12-25,Trade fair booth,Marketing,-1832.46,6500
+TXN-00826,2024-02-17,Product sale,Sales Revenue,6954.51,4000
+TXN-00664,2024-09-09,Monthly salary run,Payroll,-11219.71,6000
+TXN-00225,2024-01-04,Print advertising,Marketing,-2734.71,6500
+TXN-00736,2024-07-08,Monthly office rent,Rent,-5181.8,6100
+TXN-00281,2024-10-26,Monthly salary run,Payroll,-11446.86,6000
+TXN-00001,2024-02-04,Customer deposit,Sales Revenue,6585.96,4000
+TXN-00431,2024-12-23,Invoice payment received,Sales Revenue,5202.07,4000
+TXN-00067,2024-05-20,Interest accrual,Interest Income,268.8,4900
+TXN-00943,2024-11-16,Deposit interest credit,Interest Income,267.76,4900
+TXN-00651,2024-04-20,Office equipment,Office Supplies,-329.95,6300
+TXN-00844,2024-04-11,Customer deposit,Sales Revenue,2650.1,4000
+TXN-00561,2024-05-01,Hotel accommodation,Travel & Entertainment,-1132.22,6400
+TXN-00538,2024-01-01,Vendor payment - materials,Vendor Payment,-2287.2,5100
+TXN-00295,2024-11-15,Hotel accommodation,Travel & Entertainment,-481.86,6400
+TXN-00921,2024-01-16,Card processing fee,Bank Fees,-59.63,6900
+TXN-00728,2024-06-02,Product sale,Sales Revenue,19795.11,4000
+TXN-00246,2024-08-19,Customer deposit,Sales Revenue,18714.77,4000
+TXN-00258,2024-09-20,Contractor fee,Vendor Payment,-2976.62,5100
+TXN-00162,2024-03-25,Warehouse lease,Rent,-5350.44,6100
+TXN-00709,2024-11-02,Printer consumables,Office Supplies,-408.15,6300
+TXN-00594,2024-07-26,Interest accrual,Interest Income,17.7,4900
+TXN-00508,2024-06-15,Monthly salary run,Payroll,-5519.22,6000
+TXN-00875,2024-10-09,Warehouse lease,Rent,-3183.56,6100
+TXN-00839,2024-06-21,Customer deposit,Sales Revenue,4329.14,4000
+TXN-00807,2024-05-07,Hotel accommodation,Travel & Entertainment,-1612.9,6400
+TXN-00248,2024-12-24,Office equipment,Office Supplies,-429.87,6300
+TXN-00532,2024-01-01,Vendor payment - materials,Vendor Payment,-8067.87,5100
+TXN-00240,2024-01-03,Rent payment,Rent,-5716.7,6100
+TXN-00221,2024-08-17,Vendor payment - materials,Vendor Payment,-6248.31,5100
+TXN-00845,2024-06-23,Product sale,Sales Revenue,23275.99,4000
+TXN-00093,2024-05-31,Account maintenance fee,Bank Fees,-71.19,6900
+TXN-00115,2024-10-01,Client dinner,Travel & Entertainment,-2927.25,6400
+TXN-09012,2024-07-23,Monthly office rent,Rent,-3543.71,6100
+TXN-00077,2024-01-29,Electricity bill,Utilities,-1172.55,6200
+TXN-09014,2024-04-21,Supplier invoice,Vendor Payment,-2032.89,5100
+TXN-00367,2024-09-16,Printer consumables,Office Supplies,-611.23,6300
+TXN-00133,2024-12-15,Invoice payment received,Sales Revenue,22379.26,4000
+TXN-00513,2024-01-18,Account maintenance fee,Bank Fees,-125.29,6900
+TXN-00355,2024-08-10,Interest accrual,Interest Income,239.22,4900
+TXN-00059,2024-09-24,Print advertising,Marketing,-3604.39,6500
+TXN-00290,2024-01-15,Printer consumables,Office Supplies,-863.66,6300
+TXN-00247,2024-09-17,Online ad campaign,Marketing,-4046.88,6500
+TXN-00356,2024-09-02,Deposit interest credit,Interest Income,95.05,4900
+TXN-00855,2024-02-16,Payroll transfer,Payroll,-2487.22,6000
+TXN-00041,2024-05-05,Supplier invoice,Vendor Payment,-9075.49,5100
+TXN-00090,2024-10-28,Card processing fee,Bank Fees,-146.84,6900
+TXN-00193,2024-12-05,Warehouse lease,Rent,-1500.4,6100
+TXN-00450,2024-04-19,Employee wages,Payroll,-5649.96,6000
+TXN-00069,2024-01-16,Product sale,Sales Revenue,3897.04,4000
+TXN-00650,2024-09-15,Wire transfer fee,Bank Fees,-37.54,6900
+TXN-00384,2024-10-21,Employee wages,Payroll,-3339.4,6000
+TXN-00140,2024-02-21,Stationery purchase,Office Supplies,-701.67,6300
+TXN-00560,2024-09-06,Card processing fee,Bank Fees,-16.27,6900
+TXN-00460,2024-04-13,Contractor fee,Vendor Payment,-11001.27,5100
+TXN-00119,2024-05-01,Monthly salary run,Payroll,-8353.21,6000
+TXN-00555,2024-08-06,Savings interest,Interest Income,107.98,4900
+TXN-00905,2024-02-08,Office equipment,Office Supplies,-399.41,6300
+TXN-00867,2024-03-26,Account maintenance fee,Bank Fees,-82.42,6900
+TXN-00351,2024-10-04,Business trip - airfare,Travel & Entertainment,-1573.4,6400
+TXN-00714,2024-07-21,Trade fair booth,Marketing,-5262.98,6500
+TXN-09024,2024-05-22,Monthly office rent,Rent,-5776.25,6100
+TXN-00529,2024-03-25,Savings interest,Interest Income,383.61,4900
+TXN-00914,2024-05-15,Savings interest,Interest Income,17.87,4900
+TXN-00822,2024-05-17,Rent payment,Rent,-5158.31,6100
+TXN-00015,2024-12-12,Print advertising,Marketing,-1083.78,6500
+TXN-00376,2024-03-09,Invoice payment received,Sales Revenue,18808.11,4000
+TXN-00083,2024-09-23,Supplier invoice,Vendor Payment,-12838.97,5100
+TXN-00947,2024-07-28,Savings interest,Interest Income,187.58,4900
+TXN-00685,2024-05-31,Contractor fee,Vendor Payment,-14150.01,5100
+TXN-00692,2024-01-19,Print advertising,Marketing,-5589.47,6500
+TXN-00089,2024-06-08,Print advertising,Marketing,-6770.08,6500
+TXN-00364,2024-11-07,Card processing fee,Bank Fees,-97.5,6900
+TXN-00274,2024-08-26,Interest accrual,Interest Income,268.99,4900
+TXN-00173,2024-04-08,Trade fair booth,Marketing,-3436.45,6500
+TXN-00580,2024-12-01,Vendor payment - materials,Vendor Payment,-9371.85,5100
+TXN-00104,2024-12-15,Product sale,Sales Revenue,19471.23,4000
+TXN-00902,2024-04-02,Product sale,Sales Revenue,12055.18,4000
+TXN-00856,2024-01-17,Wire transfer fee,Bank Fees,-142.73,6900
+TXN-00372,2024-04-10,Warehouse lease,Rent,-3190.49,6100
+TXN-00046,2024-08-16,Interest accrual,Interest Income,20.9,4900
+TXN-00701,2024-03-10,Business trip - airfare,Travel & Entertainment,-1606.65,6400
+TXN-00435,2024-05-21,Office equipment,Office Supplies,-616.38,6300
+TXN-00409,2024-02-07,Savings interest,Interest Income,363.9,4900
+TXN-00593,2024-02-02,Payroll transfer,Payroll,-9201.4,6000
+TXN-00711,2024-08-14,Warehouse lease,Rent,-2254.11,6100
+TXN-00012,2024-05-29,Savings interest,Interest Income,69.61,4900
+TXN-00215,2024-07-07,Print advertising,Marketing,-3270.57,6500
+TXN-00345,2024-12-13,Deposit interest credit,Interest Income,95.32,4900
+TXN-00895,2024-09-28,Online ad campaign,Marketing,-4942.6,6500
+TXN-00706,2024-03-25,Client dinner,Travel & Entertainment,-602.2,6400
+TXN-00148,2024-10-02,Monthly salary run,Payroll,-9246.87,6000
+TXN-00300,2024-12-22,Product sale,Sales Revenue,10232.22,4000
+TXN-00284,2024-09-30,Office equipment,Office Supplies,-91.05,6300
+TXN-00796,2024-12-23,Payroll transfer,Payroll,-9967.19,6000
+TXN-00765,2024-08-23,Internet & telecom,Utilities,-618.79,6200
+TXN-00780,2024-02-08,Account maintenance fee,Bank Fees,-39.84,6900
+TXN-00726,2024-12-24,Contractor fee,Vendor Payment,-9100.32,5100
+TXN-00679,2024-05-21,Business trip - airfare,Travel & Entertainment,-1695.84,6400
+TXN-00720,2024-09-21,Client dinner,Travel & Entertainment,-2109.82,6400
+TXN-00174,2024-03-29,Online ad campaign,Marketing,-6099.6,6500
+TXN-00901,2024-01-30,Product sale,Sales Revenue,19034.32,4000
+TXN-00553,2024-03-24,Card processing fee,Bank Fees,-72.81,6900
+TXN-00227,2024-04-25,Card processing fee,Bank Fees,-71.96,6900
+TXN-00306,2024-01-31,Contractor fee,Vendor Payment,-13036.08,5100
+TXN-00032,2024-09-13,Payroll transfer,Payroll,-1524.24,6000
+TXN-00505,2024-07-27,Monthly salary run,Payroll,-5829.94,6000
+TXN-09008,2024-05-05,Contractor fee,Vendor Payment,-14623.94,5100
+TXN-00662,2024-02-22,Online ad campaign,Marketing,-3399.35,6500
+TXN-00286,2024-05-06,Savings interest,Interest Income,255.52,4900
+TXN-00843,2024-05-05,Deposit interest credit,Interest Income,369.33,4900
+TXN-00817,2024-07-03,Product sale,Sales Revenue,14361.86,4000
+TXN-00936,2024-03-06,Interest accrual,Interest Income,221.57,4900
+TXN-00605,2024-06-16,Card processing fee,Bank Fees,-46.6,6900
+TXN-00117,2024-12-03,Invoice payment received,Sales Revenue,14028.53,4000
+TXN-00438,2024-04-28,Deposit interest credit,Interest Income,385.98,4900
+TXN-00613,2024-03-31,Trade fair booth,Marketing,-6687.77,6500
+TXN-00823,2024-05-12,Supplier invoice,Vendor Payment,-7991.61,5100
+TXN-00096,2024-02-26,Payroll transfer,Payroll,-4206.99,6000
+TXN-00503,2024-01-19,Savings interest,Interest Income,192.2,4900
+TXN-00624,2024-10-23,Office equipment,Office Supplies,-311.0,6300
+TXN-00487,2024-06-04,Electricity bill,Utilities,-906.49,6200
+TXN-00564,2024-04-30,Contractor fee,Vendor Payment,-4566.28,5100
+TXN-00691,2024-09-20,Savings interest,Interest Income,106.87,4900
+TXN-00103,2024-07-02,Account maintenance fee,Bank Fees,-25.06,6900
+TXN-00063,2024-03-30,Internet & telecom,Utilities,-72.73,6200
+TXN-00205,2024-04-21,Office equipment,Office Supplies,-741.43,6300
+TXN-00465,2024-08-01,Invoice payment received,Sales Revenue,20003.48,4000
+TXN-00675,2024-07-20,Warehouse lease,Rent,-3773.58,6100
+TXN-00185,2024-08-12,Stationery purchase,Office Supplies,-438.96,6300
+TXN-00721,2024-10-05,Supplier invoice,Vendor Payment,-7823.97,5100
+TXN-00785,2024-11-10,Office equipment,Office Supplies,-308.57,6300
+TXN-00092,2024-11-08,Card processing fee,Bank Fees,-115.58,6900
+TXN-00925,2024-05-29,Monthly salary run,Payroll,-5380.5,6000
+TXN-00870,2024-04-17,Customer deposit,Sales Revenue,24171.96,4000
+TXN-00849,2024-06-23,Card processing fee,Bank Fees,-32.56,6900
+TXN-00642,2024-05-06,Deposit interest credit,Interest Income,362.04,4900
+TXN-00835,2024-09-22,Wire transfer fee,Bank Fees,-134.74,6900
+TXN-00412,2024-01-25,Payroll transfer,Payroll,-1665.96,6000
+TXN-00347,2024-04-05,Interest accrual,Interest Income,374.98,4900
+TXN-00880,2024-12-24,Warehouse lease,Rent,-5320.68,6100
+TXN-00799,2024-10-20,Internet & telecom,Utilities,-935.6,6200
+TXN-00030,2024-07-25,Office equipment,Office Supplies,-832.93,6300
+TXN-00055,2024-02-16,Stationery purchase,Office Supplies,-467.86,6300
+TXN-00475,2024-04-03,Rent payment,Rent,-4871.11,6100
+TXN-00040,2024-10-14,Monthly office rent,Rent,-3197.72,6100
+TXN-00158,2024-11-27,Business trip - airfare,Travel & Entertainment,-1442.89,6400
+TXN-00896,2024-08-13,Rent payment,Rent,-2399.67,6100
+TXN-00147,2024-10-31,Invoice payment received,Sales Revenue,10164.8,4000
+TXN-00222,2024-08-18,Printer consumables,Office Supplies,-399.74,6300
+TXN-00673,2024-12-03,Monthly office rent,Rent,-3991.91,6100
+TXN-00757,2024-12-24,Trade fair booth,Marketing,-2218.28,6500
+TXN-00591,2024-06-22,Account maintenance fee,Bank Fees,-5.08,6900
+TXN-00703,2024-01-19,Supplier invoice,Vendor Payment,-1915.3,5100
+TXN-00395,2024-03-09,Online ad campaign,Marketing,-2982.36,6500
+TXN-00053,2024-07-22,Internet & telecom,Utilities,-513.61,6200
+TXN-00556,2024-03-29,Hotel accommodation,Travel & Entertainment,-605.08,6400
+TXN-00360,2024-11-07,Trade fair booth,Marketing,-3883.16,6500
+TXN-00492,2024-07-06,Account maintenance fee,Bank Fees,-78.27,6900
+TXN-00403,2024-06-29,Internet & telecom,Utilities,-321.4,6200
+TXN-00422,2024-05-05,Rent payment,Rent,-2888.64,6100
+TXN-00449,2024-01-10,Hotel accommodation,Travel & Entertainment,-384.52,6400
+TXN-00166,2024-06-27,Account maintenance fee,Bank Fees,-46.92,6900
+TXN-00285,2024-08-20,Printer consumables,Office Supplies,-786.84,6300
+TXN-00081,2024-06-26,Interest accrual,Interest Income,246.04,4900
+TXN-00228,2024-03-10,Client dinner,Travel & Entertainment,-2332.94,6400
+TXN-00448,2024-08-26,Deposit interest credit,Interest Income,209.97,4900
+TXN-00354,2024-11-22,Printer consumables,Office Supplies,-391.15,6300
+TXN-00311,2024-04-07,Rent payment,Rent,-3637.51,6100
+TXN-00712,2024-08-10,Client dinner,Travel & Entertainment,-189.59,6400
+TXN-00260,2024-12-17,Client dinner,Travel & Entertainment,-1360.67,6400
+TXN-00324,2024-09-03,Deposit interest credit,Interest Income,390.42,4900
+TXN-00010,2024-05-30,Invoice payment received,Sales Revenue,23830.12,4000
+TXN-00668,2024-07-04,Card processing fee,Bank Fees,-6.75,6900
+TXN-00552,2024-04-05,Water utility,Utilities,-564.5,6200
+TXN-00031,2024-08-03,Printer consumables,Office Supplies,-582.33,6300
+TXN-00774,2024-09-23,Trade fair booth,Marketing,-4225.46,6500
+TXN-00180,2024-08-24,Client dinner,Travel & Entertainment,-305.99,6400
+TXN-00028,2024-07-27,Card processing fee,Bank Fees,-113.87,6900
+TXN-00034,2024-08-24,Hotel accommodation,Travel & Entertainment,-292.26,6400
+TXN-00511,2024-10-15,Deposit interest credit,Interest Income,138.06,4900
+TXN-00362,2024-05-07,Account maintenance fee,Bank Fees,-98.99,6900
+TXN-00294,2024-06-27,Internet & telecom,Utilities,-1126.26,6200
+TXN-00767,2024-08-23,Rent payment,Rent,-4684.98,6100
+TXN-00942,2024-03-30,Office equipment,Office Supplies,-440.33,6300
+TXN-00006,2024-08-11,Card processing fee,Bank Fees,-76.14,6900
+TXN-00198,2024-10-07,Vendor payment - materials,Vendor Payment,-9235.18,5100
+TXN-00863,2024-09-02,Vendor payment - materials,Vendor Payment,-5911.64,5100
+TXN-00393,2024-02-13,Electricity bill,Utilities,-565.48,6200
+TXN-00773,2024-08-26,Customer deposit,Sales Revenue,4489.99,4000
+TXN-00620,2024-12-25,Supplier invoice,Vendor Payment,-8499.51,5100
+TXN-00262,2024-10-12,Supplier invoice,Vendor Payment,-7330.1,5100
+TXN-00934,2024-11-04,Monthly office rent,Rent,-1092.7,6100
+TXN-00123,2024-10-03,Rent payment,Rent,-5878.65,6100
+TXN-00866,2024-02-10,Monthly office rent,Rent,-2818.4,6100
+TXN-00379,2024-09-03,Electricity bill,Utilities,-227.59,6200
+TXN-00039,2024-03-30,Payroll transfer,Payroll,-9124.89,6000
+TXN-00359,2024-05-31,Invoice payment received,Sales Revenue,22470.51,4000
+TXN-00841,2024-08-01,Employee wages,Payroll,-6281.2,6000
+TXN-00335,2024-05-19,Office equipment,Office Supplies,-780.44,6300
+TXN-00783,2024-09-12,Supplier invoice,Vendor Payment,-5803.59,5100
+TXN-00937,2024-08-25,Contractor fee,Vendor Payment,-11973.78,5100
+TXN-00163,2024-03-11,Office equipment,Office Supplies,-788.12,6300
+TXN-00068,2024-06-29,Electricity bill,Utilities,-198.77,6200
+TXN-00125,2024-06-19,Account maintenance fee,Bank Fees,-66.59,6900
+TXN-00005,2024-10-13,Stationery purchase,Office Supplies,-475.54,6300
+TXN-00683,2024-02-03,Deposit interest credit,Interest Income,74.05,4900
+TXN-00744,2024-05-24,Monthly salary run,Payroll,-11266.11,6000
+TXN-00428,2024-10-01,Account maintenance fee,Bank Fees,-13.4,6900
+TXN-00600,2024-01-02,Warehouse lease,Rent,-4750.14,6100
+TXN-00544,2024-05-01,Supplier invoice,Vendor Payment,-1255.31,5100
+TXN-00507,2024-12-25,Business trip - airfare,Travel & Entertainment,-2774.25,6400
+TXN-00891,2024-06-04,Product sale,Sales Revenue,22256.7,4000
+TXN-00400,2024-08-05,Internet & telecom,Utilities,-363.72,6200
+TXN-00898,2024-07-16,Invoice payment received,Sales Revenue,18347.81,4000
+TXN-00353,2024-09-12,Monthly salary run,Payroll,-6518.44,6000
+TXN-00824,2024-05-23,Monthly office rent,Rent,-1683.89,6100
+TXN-00886,2024-02-20,Trade fair booth,Marketing,-6903.72,6500
+TXN-00261,2024-08-15,Online ad campaign,Marketing,-6516.06,6500
+TXN-00334,2024-10-19,Wire transfer fee,Bank Fees,-121.08,6900
+TXN-00154,2024-02-24,Monthly salary run,Payroll,-9390.65,6000
+TXN-00397,2024-11-08,Invoice payment received,Sales Revenue,10105.47,4000
+TXN-00502,2024-01-15,Rent payment,Rent,-2630.66,6100
+TXN-00374,2024-11-19,Electricity bill,Utilities,-200.83,6200
+TXN-00313,2024-06-11,Contractor fee,Vendor Payment,-14582.7,5100
+TXN-00043,2024-03-12,Trade fair booth,Marketing,-2840.3,6500
+TXN-00743,2024-08-27,Monthly office rent,Rent,-3003.01,6100
+TXN-00523,2024-06-12,Vendor payment - materials,Vendor Payment,-13025.81,5100
+TXN-00639,2024-11-10,Trade fair booth,Marketing,-6451.61,6500
+TXN-00831,2024-01-18,Monthly salary run,Payroll,-2209.04,6000
+TXN-00738,2024-05-28,Electricity bill,Utilities,-1174.75,6200
+TXN-00702,2024-01-07,Rent payment,Rent,-5755.47,6100
+TXN-00599,2024-06-29,Warehouse lease,Rent,-2943.74,6100
+TXN-00585,2024-10-25,Printer consumables,Office Supplies,-443.8,6300
+TXN-00740,2024-02-04,Wire transfer fee,Bank Fees,-12.5,6900
+TXN-00626,2024-04-26,Monthly salary run,Payroll,-10430.47,6000
+TXN-00579,2024-01-08,Card processing fee,Bank Fees,-77.38,6900
+TXN-00446,2024-08-03,Monthly office rent,Rent,-5969.2,6100
+TXN-00273,2024-12-16,Vendor payment - materials,Vendor Payment,-2618.2,5100
+TXN-00861,2024-03-30,Savings interest,Interest Income,28.95,4900
+TXN-00520,2024-01-23,Hotel accommodation,Travel & Entertainment,-1435.81,6400
+TXN-00378,2024-01-31,Print advertising,Marketing,-1019.19,6500
+TXN-00499,2024-09-26,Savings interest,Interest Income,384.45,4900
+TXN-00805,2024-08-16,Trade fair booth,Marketing,-2316.0,6500
+TXN-00913,2024-11-05,Internet & telecom,Utilities,-1107.13,6200
+TXN-00098,2024-08-07,Warehouse lease,Rent,-1938.05,6100
+TXN-00129,2024-06-01,Hotel accommodation,Travel & Entertainment,-2888.61,6400
+TXN-00545,2024-05-29,Account maintenance fee,Bank Fees,-15.74,6900
+TXN-00380,2024-05-04,Employee wages,Payroll,-3575.5,6000
+TXN-00204,2024-11-27,Warehouse lease,Rent,-5232.39,6100
+TXN-00344,2024-01-02,Business trip - airfare,Travel & Entertainment,-2381.16,6400
+TXN-00853,2024-06-14,Savings interest,Interest Income,263.22,4900
+TXN-00922,2024-03-16,Client dinner,Travel & Entertainment,-2907.53,6400
+TXN-00519,2024-10-10,Office equipment,Office Supplies,-47.19,6300
+TXN-00764,2024-09-24,Deposit interest credit,Interest Income,140.35,4900
+TXN-00489,2024-04-26,Online ad campaign,Marketing,-2409.66,6500
+TXN-00238,2024-08-06,Office equipment,Office Supplies,-545.71,6300
+TXN-00550,2024-11-03,Warehouse lease,Rent,-4120.03,6100
+TXN-00401,2024-01-23,Savings interest,Interest Income,178.33,4900
+TXN-00233,2024-09-09,Customer deposit,Sales Revenue,10032.87,4000
+TXN-00443,2024-12-25,Vendor payment - materials,Vendor Payment,-12559.86,5100
+TXN-00099,2024-08-31,Warehouse lease,Rent,-5274.96,6100
+TXN-00859,2024-02-02,Rent payment,Rent,-2715.39,6100
+TXN-09022,2024-07-02,Rent payment,Rent,-3848.12,6100
+TXN-00512,2024-04-24,Print advertising,Marketing,-4909.95,6500
+TXN-00601,2024-04-12,Monthly office rent,Rent,-5510.12,6100
+TXN-00218,2024-05-25,Invoice payment received,Sales Revenue,5233.6,4000
+TXN-00361,2024-07-10,Card processing fee,Bank Fees,-124.22,6900
+TXN-00559,2024-11-11,Print advertising,Marketing,-6872.82,6500
+TXN-00745,2024-02-28,Print advertising,Marketing,-7773.41,6500
+TXN-00941,2024-03-08,Warehouse lease,Rent,-1069.1,6100
+TXN-00226,2024-05-03,Water utility,Utilities,-568.7,6200
+TXN-00019,2024-12-01,Card processing fee,Bank Fees,-82.12,6900
+TXN-00169,2024-09-20,Water utility,Utilities,-867.11,6200
+TXN-00293,2024-12-17,Savings interest,Interest Income,22.82,4900
+TXN-00751,2024-04-06,Deposit interest credit,Interest Income,390.73,4900
+TXN-00398,2024-09-12,Vendor payment - materials,Vendor Payment,-3765.72,5100
+TXN-00541,2024-04-10,Print advertising,Marketing,-1477.71,6500
+TXN-00329,2024-01-03,Vendor payment - materials,Vendor Payment,-1137.26,5100
+TXN-00760,2024-03-18,Trade fair booth,Marketing,-3812.1,6500
+TXN-00615,2024-07-22,Rent payment,Rent,-5925.23,6100
+TXN-00094,2024-05-15,Water utility,Utilities,-326.26,6200
+TXN-00214,2024-07-12,Printer consumables,Office Supplies,-874.38,6300
+TXN-00338,2024-03-26,Water utility,Utilities,-309.82,6200
+TXN-00426,2024-12-16,Vendor payment - materials,Vendor Payment,-4585.23,5100
+TXN-00788,2024-02-06,Monthly office rent,Rent,-4734.58,6100
+TXN-00116,2024-05-21,Business trip - airfare,Travel & Entertainment,-683.14,6400
+TXN-00159,2024-12-09,Hotel accommodation,Travel & Entertainment,-549.26,6400
+TXN-09021,2024-03-10,Supplier invoice,Vendor Payment,-10831.59,5100
+TXN-00113,2024-02-22,Business trip - airfare,Travel & Entertainment,-3106.18,6400
+TXN-00037,2024-08-13,Card processing fee,Bank Fees,-61.97,6900
+TXN-00106,2024-12-29,Online ad campaign,Marketing,-7989.08,6500
+TXN-00363,2024-10-11,Employee wages,Payroll,-5995.78,6000
+TXN-00366,2024-04-19,Hotel accommodation,Travel & Entertainment,-1269.04,6400
+TXN-00442,2024-07-12,Electricity bill,Utilities,-937.63,6200
+TXN-00566,2024-12-05,Payroll transfer,Payroll,-7320.0,6000
+TXN-00352,2024-05-26,Customer deposit,Sales Revenue,24872.96,4000
+TXN-09006,2024-11-06,Payroll transfer,Payroll,-4962.75,6000
+TXN-00250,2024-08-14,Invoice payment received,Sales Revenue,8602.54,4000
+TXN-00834,2024-12-14,Supplier invoice,Vendor Payment,-1956.43,5100
+TXN-00781,2024-10-11,Wire transfer fee,Bank Fees,-9.76,6900
+TXN-00407,2024-05-05,Stationery purchase,Office Supplies,-898.97,6300
+TXN-00837,2024-03-13,Account maintenance fee,Bank Fees,-90.21,6900
+TXN-00165,2024-03-11,Printer consumables,Office Supplies,-597.35,6300
+TXN-00860,2024-12-16,Account maintenance fee,Bank Fees,-82.89,6900
+TXN-00798,2024-05-17,Stationery purchase,Office Supplies,-103.02,6300
+TXN-00813,2024-01-04,Rent payment,Rent,-3413.06,6100
+TXN-00084,2024-04-24,Card processing fee,Bank Fees,-51.72,6900
+TXN-00686,2024-07-14,Wire transfer fee,Bank Fees,-111.45,6900
+TXN-00296,2024-12-25,Hotel accommodation,Travel & Entertainment,-284.6,6400
+TXN-00071,2024-01-21,Online ad campaign,Marketing,-7296.07,6500
+TXN-00611,2024-04-16,Card processing fee,Bank Fees,-140.28,6900
+TXN-00653,2024-10-28,Payroll transfer,Payroll,-6111.37,6000
+TXN-00300,2024-12-22,Product sale,Sales Revenue,10232.22,4000
+TXN-09023,2024-02-15,Vendor payment - materials,Vendor Payment,-10519.65,5100
+TXN-00637,2024-10-27,Payroll transfer,Payroll,-6169.22,6000
+TXN-00710,2024-04-02,Stationery purchase,Office Supplies,-384.63,6300
+TXN-00128,2024-03-01,Print advertising,Marketing,-6331.59,6500
+TXN-00825,2024-10-07,Monthly office rent,Rent,-3837.64,6100
+TXN-00002,2024-04-21,Trade fair booth,Marketing,-2071.65,6500
+TXN-00644,2024-01-07,Printer consumables,Office Supplies,-198.46,6300
+TXN-00540,2024-07-04,Product sale,Sales Revenue,23086.49,4000
+TXN-00602,2024-11-07,Online ad campaign,Marketing,-4076.65,6500
+TXN-00309,2024-07-16,Water utility,Utilities,-1134.89,6200
+TXN-00586,2024-01-12,Savings interest,Interest Income,369.07,4900
+TXN-00411,2024-01-31,Vendor payment - materials,Vendor Payment,-1401.08,5100
+TXN-00172,2024-01-31,Invoice payment received,Sales Revenue,12411.71,4000
+TXN-00418,2024-06-14,Supplier invoice,Vendor Payment,-11936.47,5100
+TXN-00748,2024-02-24,Water utility,Utilities,-565.49,6200
+TXN-00676,2024-12-28,Trade fair booth,Marketing,-1355.6,6500
+TXN-00604,2024-08-13,Contractor fee,Vendor Payment,-14982.66,5100
+TXN-00461,2024-01-23,Online ad campaign,Marketing,-917.64,6500
+TXN-00850,2024-07-09,Warehouse lease,Rent,-5471.55,6100
+TXN-00638,2024-01-29,Payroll transfer,Payroll,-6149.94,6000
+TXN-00424,2024-06-02,Business trip - airfare,Travel & Entertainment,-3290.71,6400
+TXN-00316,2024-01-14,Warehouse lease,Rent,-2808.98,6100
+TXN-00377,2024-09-04,Online ad campaign,Marketing,-2289.8,6500
+TXN-00525,2024-12-22,Internet & telecom,Utilities,-298.31,6200
+TXN-00851,2024-01-21,Interest accrual,Interest Income,283.58,4900
+TXN-00439,2024-11-21,Customer deposit,Sales Revenue,11033.95,4000
+TXN-00724,2024-10-03,Vendor payment - materials,Vendor Payment,-11785.74,5100
+TXN-00151,2024-06-24,Wire transfer fee,Bank Fees,-72.38,6900
+TXN-00842,2024-11-17,Rent payment,Rent,-5337.17,6100
+TXN-00557,2024-11-29,Print advertising,Marketing,-6760.25,6500
+TXN-00804,2024-05-24,Interest accrual,Interest Income,343.46,4900
+TXN-00792,2024-09-28,Printer consumables,Office Supplies,-701.07,6300
+TXN-00410,2024-05-13,Product sale,Sales Revenue,19890.56,4000
+TXN-00144,2024-05-23,Stationery purchase,Office Supplies,-777.5,6300
+TXN-00527,2024-06-28,Savings interest,Interest Income,102.05,4900
+TXN-00842,2024-11-17,Rent payment,Rent,-5337.17,6100
+TXN-09019,2024-04-04,Supplier invoice,Vendor Payment,-9548.1,5100
+TXN-00812,2024-05-29,Account maintenance fee,Bank Fees,-66.77,6900
+TXN-00209,2024-05-20,Monthly salary run,Payroll,-11460.78,6000
+TXN-00441,2024-04-21,Interest accrual,Interest Income,311.44,4900
+TXN-00132,2024-12-27,Business trip - airfare,Travel & Entertainment,-2820.75,6400
+TXN-00381,2024-06-13,Customer deposit,Sales Revenue,13470.09,4000
+TXN-00175,2024-11-02,Monthly office rent,Rent,-3718.36,6100
+TXN-00534,2024-02-10,Payroll transfer,Payroll,-8224.61,6000
+TXN-00271,2024-08-25,Monthly salary run,Payroll,-6964.8,6000
+TXN-00408,2024-02-19,Contractor fee,Vendor Payment,-9280.04,5100
+TXN-00700,2024-11-01,Customer deposit,Sales Revenue,13241.76,4000
+TXN-00124,2024-07-10,Office equipment,Office Supplies,-300.13,6300
+TXN-00139,2024-08-25,Electricity bill,Utilities,-551.76,6200
+TXN-00052,2024-09-25,Supplier invoice,Vendor Payment,-5621.77,5100
+TXN-00625,2024-02-24,Warehouse lease,Rent,-1781.3,6100
+TXN-00276,2024-12-19,Printer consumables,Office Supplies,-55.28,6300
+TXN-00948,2024-11-15,Vendor payment - materials,Vendor Payment,-5038.1,5100
+TXN-00343,2024-06-10,Warehouse lease,Rent,-4196.6,6100
+TXN-00257,2024-07-07,Monthly office rent,Rent,-5249.34,6100
+TXN-00183,2024-10-16,Office equipment,Office Supplies,-171.33,6300
+TXN-00618,2024-08-08,Employee wages,Payroll,-4325.87,6000
+TXN-00301,2024-03-29,Internet & telecom,Utilities,-122.58,6200
+TXN-09018,2024-12-20,Contractor fee,Vendor Payment,-1215.59,5100
+TXN-00241,2024-05-31,Contractor fee,Vendor Payment,-13873.73,5100
+TXN-00231,2024-08-09,Stationery purchase,Office Supplies,-103.28,6300
+TXN-00899,2024-07-09,Customer deposit,Sales Revenue,619.0,4000
+TXN-00327,2024-08-27,Employee wages,Payroll,-3981.78,6000
+TXN-00459,2024-01-01,Account maintenance fee,Bank Fees,-40.65,6900
+TXN-00682,2024-11-23,Supplier invoice,Vendor Payment,-11050.24,5100
+TXN-00663,2024-09-01,Invoice payment received,Sales Revenue,20698.18,4000
+TXN-00747,2024-06-20,Hotel accommodation,Travel & Entertainment,-3019.6,6400
+TXN-00466,2024-10-13,Deposit interest credit,Interest Income,363.5,4900
+TXN-00164,2024-04-16,Office equipment,Office Supplies,-189.22,6300
+TXN-00168,2024-08-02,Contractor fee,Vendor Payment,-8353.45,5100
+TXN-00146,2024-01-30,Card processing fee,Bank Fees,-123.78,6900
+TXN-00207,2024-02-13,Online ad campaign,Marketing,-496.77,6500
+TXN-00501,2024-04-17,Contractor fee,Vendor Payment,-14765.94,5100
+TXN-00189,2024-09-28,Payroll transfer,Payroll,-8635.03,6000
+TXN-00325,2024-10-05,Interest accrual,Interest Income,208.72,4900
+TXN-00658,2024-08-04,Rent payment,Rent,-3270.12,6100
+TXN-00725,2024-09-18,Print advertising,Marketing,-324.81,6500
+TXN-00832,2024-05-03,Employee wages,Payroll,-6878.55,6000
+TXN-00879,2024-08-12,Business trip - airfare,Travel & Entertainment,-2554.14,6400
+TXN-00576,2024-01-18,Water utility,Utilities,-322.62,6200
+TXN-00080,2024-05-01,Rent payment,Rent,-2880.32,6100
+TXN-00878,2024-12-25,Trade fair booth,Marketing,-6049.43,6500
+TXN-00688,2024-08-14,Business trip - airfare,Travel & Entertainment,-1373.45,6400
+TXN-00887,2024-12-09,Product sale,Sales Revenue,10795.45,4000
+TXN-00829,2024-04-22,Wire transfer fee,Bank Fees,-13.53,6900
+TXN-00230,2024-01-10,Vendor payment - materials,Vendor Payment,-5316.82,5100
+TXN-00762,2024-06-20,Client dinner,Travel & Entertainment,-2036.07,6400
+TXN-00101,2024-07-04,Wire transfer fee,Bank Fees,-53.74,6900
+TXN-00291,2024-07-04,Wire transfer fee,Bank Fees,-107.34,6900
+TXN-00445,2024-03-19,Hotel accommodation,Travel & Entertainment,-2033.39,6400
+TXN-00929,2024-09-22,Printer consumables,Office Supplies,-273.49,6300
+TXN-00054,2024-11-19,Office equipment,Office Supplies,-514.4,6300
+TXN-00392,2024-02-19,Vendor payment - materials,Vendor Payment,-11270.25,5100
+TXN-00945,2024-02-18,Contractor fee,Vendor Payment,-6394.91,5100
+TXN-00723,2024-04-07,Card processing fee,Bank Fees,-19.54,6900
+TXN-00667,2024-10-16,Business trip - airfare,Travel & Entertainment,-3335.6,6400
+TXN-00252,2024-06-23,Office equipment,Office Supplies,-517.27,6300
+TXN-00500,2024-02-07,Office equipment,Office Supplies,-655.22,6300
+TXN-00476,2024-10-24,Trade fair booth,Marketing,-1805.83,6500
+TXN-00671,2024-04-06,Deposit interest credit,Interest Income,222.38,4900
+TXN-00272,2024-07-20,Invoice payment received,Sales Revenue,11860.06,4000
+TXN-00045,2024-07-12,Invoice payment received,Sales Revenue,21227.19,4000
+TXN-00114,2024-09-14,Stationery purchase,Office Supplies,-603.84,6300
+TXN-00025,2024-02-23,Print advertising,Marketing,-543.34,6500
+TXN-00212,2024-07-01,Print advertising,Marketing,-7832.28,6500
+TXN-00621,2024-01-29,Stationery purchase,Office Supplies,-580.27,6300
+TXN-00170,2024-06-29,Product sale,Sales Revenue,1151.16,4000
+TXN-00592,2024-03-29,Deposit interest credit,Interest Income,175.62,4900
+TXN-09002,2024-05-02,Vendor payment - materials,Vendor Payment,-11345.48,5100
+TXN-00597,2024-09-07,Hotel accommodation,Travel & Entertainment,-2223.11,6400
+TXN-00521,2024-11-23,Water utility,Utilities,-108.51,6200
+TXN-00033,2024-07-18,Customer deposit,Sales Revenue,7381.96,4000
+TXN-00612,2024-04-02,Office equipment,Office Supplies,-199.4,6300
+TXN-00110,2024-04-23,Trade fair booth,Marketing,-7849.45,6500
+TXN-00137,2024-10-19,Monthly office rent,Rent,-1151.1,6100
+TXN-00331,2024-09-27,Business trip - airfare,Travel & Entertainment,-3200.57,6400
+TXN-00223,2024-05-22,Print advertising,Marketing,-7425.14,6500
+TXN-00029,2024-05-08,Client dinner,Travel & Entertainment,-804.88,6400
+TXN-00288,2024-02-15,Client dinner,Travel & Entertainment,-202.77,6400
+TXN-00723,2024-04-07,Card processing fee,Bank Fees,-19.54,6900
+TXN-00056,2024-12-02,Product sale,Sales Revenue,22723.62,4000
+TXN-09005,2024-01-27,Vendor payment - materials,Vendor Payment,-4601.7,5100
+TXN-00946,2024-11-06,Supplier invoice,Vendor Payment,-5625.4,5100
+TXN-00885,2024-05-29,Account maintenance fee,Bank Fees,-36.36,6900
+TXN-00049,2024-12-17,Monthly office rent,Rent,-3563.35,6100
+TXN-00888,2024-04-21,Vendor payment - materials,Vendor Payment,-2983.94,5100
+TXN-09009,2024-10-02,Payroll transfer,Payroll,-7143.09,6000
+TXN-00643,2024-05-19,Wire transfer fee,Bank Fees,-26.76,6900
+TXN-00546,2024-06-06,Product sale,Sales Revenue,3747.28,4000
+TXN-00478,2024-11-25,Product sale,Sales Revenue,21285.33,4000
+TXN-00548,2024-10-11,Hotel accommodation,Travel & Entertainment,-2728.51,6400
+TXN-00064,2024-04-24,Savings interest,Interest Income,133.99,4900
+TXN-00414,2024-03-14,Vendor payment - materials,Vendor Payment,-6228.96,5100
+TXN-00385,2024-07-13,Product sale,Sales Revenue,12220.92,4000
+TXN-00873,2024-04-20,Vendor payment - materials,Vendor Payment,-6550.66,5100
+TXN-00323,2024-12-06,Monthly office rent,Rent,-1870.26,6100
+TXN-00452,2024-03-29,Interest accrual,Interest Income,79.59,4900
+TXN-00766,2024-11-16,Online ad campaign,Marketing,-1122.91,6500
+TXN-00235,2024-06-02,Office equipment,Office Supplies,-684.87,6300
+TXN-00657,2024-02-23,Online ad campaign,Marketing,-956.96,6500
+TXN-00558,2024-06-24,Account maintenance fee,Bank Fees,-52.88,6900
+TXN-00463,2024-04-01,Online ad campaign,Marketing,-1605.2,6500
+TXN-00425,2024-11-19,Printer consumables,Office Supplies,-510.16,6300
+TXN-00864,2024-06-29,Online ad campaign,Marketing,-1696.13,6500
+TXN-00304,2024-10-16,Account maintenance fee,Bank Fees,-46.48,6900
+TXN-00868,2024-04-02,Wire transfer fee,Bank Fees,-116.92,6900
+TXN-00690,2024-04-09,Print advertising,Marketing,-5006.49,6500
+TXN-00220,2024-11-30,Deposit interest credit,Interest Income,237.79,4900
+TXN-00854,2024-04-04,Monthly salary run,Payroll,-5059.67,6000
+TXN-00297,2024-11-09,Account maintenance fee,Bank Fees,-27.58,6900
+TXN-00022,2024-06-01,Internet & telecom,Utilities,-902.86,6200
+TXN-00761,2024-05-05,Vendor payment - materials,Vendor Payment,-12818.82,5100
+TXN-00421,2024-11-17,Deposit interest credit,Interest Income,129.17,4900
+TXN-00326,2024-09-17,Monthly salary run,Payroll,-11329.86,6000
+TXN-00200,2024-11-06,Deposit interest credit,Interest Income,372.22,4900
+TXN-00451,2024-11-07,Savings interest,Interest Income,151.76,4900
+TXN-00138,2024-12-27,Customer deposit,Sales Revenue,1793.77,4000
+TXN-00537,2024-02-29,Stationery purchase,Office Supplies,-529.18,6300
+TXN-00697,2024-05-05,Trade fair booth,Marketing,-6067.1,6500
+TXN-00718,2024-09-04,Printer consumables,Office Supplies,-733.07,6300
+TXN-00647,2024-08-28,Office equipment,Office Supplies,-454.78,6300
+TXN-00629,2024-02-11,Hotel accommodation,Travel & Entertainment,-152.35,6400
+TXN-00213,2024-11-05,Online ad campaign,Marketing,-4025.33,6500
+TXN-00944,2024-09-16,Office equipment,Office Supplies,-622.99,6300
+TXN-00917,2024-02-10,Business trip - airfare,Travel & Entertainment,-3452.22,6400
+TXN-00904,2024-02-28,Wire transfer fee,Bank Fees,-52.07,6900
+TXN-00506,2024-01-24,Stationery purchase,Office Supplies,-790.47,6300
+TXN-00800,2024-09-19,Office equipment,Office Supplies,-102.08,6300
+TXN-00232,2024-12-04,Wire transfer fee,Bank Fees,-29.08,6900
+TXN-00406,2024-06-30,Hotel accommodation,Travel & Entertainment,-2279.05,6400
+TXN-00730,2024-07-06,Warehouse lease,Rent,-5901.23,6100
+TXN-00569,2024-06-29,Rent payment,Rent,-4406.41,6100
+TXN-00318,2024-05-16,Trade fair booth,Marketing,-854.56,6500
+TXN-00184,2024-10-05,Warehouse lease,Rent,-5429.37,6100
+TXN-00840,2024-10-02,Savings interest,Interest Income,46.14,4900
+TXN-00838,2024-02-06,Supplier invoice,Vendor Payment,-10827.32,5100
+TXN-00694,2024-08-05,Interest accrual,Interest Income,39.92,4900
+TXN-00610,2024-11-08,Card processing fee,Bank Fees,-97.66,6900
+TXN-00627,2024-07-19,Internet & telecom,Utilities,-312.05,6200
+TXN-00486,2024-02-07,Employee wages,Payroll,-10705.12,6000
+TXN-00279,2024-02-26,Customer deposit,Sales Revenue,5117.62,4000
+TXN-00631,2024-04-18,Online ad campaign,Marketing,-5298.6,6500
+TXN-00021,2024-04-19,Hotel accommodation,Travel & Entertainment,-2878.61,6400
+TXN-00171,2024-01-06,Vendor payment - materials,Vendor Payment,-9103.07,5100
+TXN-00402,2024-05-23,Online ad campaign,Marketing,-2528.27,6500
+TXN-00907,2024-05-16,Printer consumables,Office Supplies,-895.61,6300
+TXN-00567,2024-06-25,Monthly salary run,Payroll,-7908.52,6000
+TXN-00177,2024-11-07,Print advertising,Marketing,-4247.06,6500
+TXN-00328,2024-10-09,Product sale,Sales Revenue,1703.38,4000
+TXN-00707,2024-11-05,Invoice payment received,Sales Revenue,1660.63,4000
+TXN-00199,2024-09-08,Water utility,Utilities,-1071.62,6200
+TXN-00471,2024-12-12,Trade fair booth,Marketing,-1913.81,6500
+TXN-00827,2024-05-01,Monthly office rent,Rent,-1398.97,6100
+TXN-00695,2024-02-18,Product sale,Sales Revenue,8823.53,4000
+TXN-00267,2024-07-04,Stationery purchase,Office Supplies,-719.38,6300
+TXN-00616,2024-06-14,Warehouse lease,Rent,-5922.24,6100
+TXN-00733,2024-01-13,Savings interest,Interest Income,137.83,4900
+TXN-00493,2024-12-07,Trade fair booth,Marketing,-3251.55,6500
+TXN-00131,2024-12-01,Client dinner,Travel & Entertainment,-2640.97,6400
+TXN-00339,2024-02-07,Payroll transfer,Payroll,-11429.78,6000
+TXN-00836,2024-03-29,Print advertising,Marketing,-1609.9,6500
+TXN-00490,2024-12-14,Rent payment,Rent,-1412.79,6100
+TXN-00573,2024-03-10,Monthly salary run,Payroll,-2410.47,6000
+TXN-00607,2024-11-23,Internet & telecom,Utilities,-719.81,6200
+TXN-00194,2024-11-04,Electricity bill,Utilities,-1039.32,6200
+TXN-00141,2024-07-02,Deposit interest credit,Interest Income,262.64,4900
+TXN-00417,2024-04-20,Interest accrual,Interest Income,93.95,4900
+TXN-00661,2024-10-10,Contractor fee,Vendor Payment,-6932.44,5100
+TXN-00477,2024-09-02,Wire transfer fee,Bank Fees,-128.39,6900
+TXN-00715,2024-07-10,Interest accrual,Interest Income,10.44,4900
+TXN-00153,2024-12-01,Savings interest,Interest Income,87.31,4900
+TXN-00882,2024-12-13,Wire transfer fee,Bank Fees,-114.41,6900
+TXN-00011,2024-02-26,Business trip - airfare,Travel & Entertainment,-3339.96,6400
+TXN-00270,2024-06-09,Business trip - airfare,Travel & Entertainment,-3070.22,6400
+TXN-00097,2024-03-28,Payroll transfer,Payroll,-5804.82,6000
+TXN-00211,2024-07-31,Employee wages,Payroll,-3288.58,6000
+TXN-09017,2024-12-27,Monthly salary run,Payroll,-9119.86,6000
+TXN-00753,2024-09-05,Product sale,Sales Revenue,1261.21,4000
+TXN-00570,2024-06-17,Business trip - airfare,Travel & Entertainment,-2387.65,6400
+TXN-00814,2024-08-07,Monthly salary run,Payroll,-5886.3,6000
+TXN-00776,2024-10-12,Savings interest,Interest Income,247.18,4900
+TXN-00549,2024-06-19,Business trip - airfare,Travel & Entertainment,-3097.04,6400
+TXN-09004,2024-02-08,Rent payment,Rent,-2085.79,6100
+TXN-00533,2024-04-15,Supplier invoice,Vendor Payment,-6853.08,5100
+TXN-00916,2024-05-27,Stationery purchase,Office Supplies,-90.64,6300
+TXN-00333,2024-05-23,Water utility,Utilities,-282.15,6200
+TXN-00076,2024-01-21,Printer consumables,Office Supplies,-570.42,6300
+TXN-00713,2024-03-08,Print advertising,Marketing,-3083.69,6500
+TXN-00078,2024-04-12,Monthly salary run,Payroll,-5696.6,6000
+TXN-00264,2024-11-12,Savings interest,Interest Income,244.85,4900
+TXN-09025,2024-07-21,Supplier invoice,Vendor Payment,-10032.3,5100
+TXN-00150,2024-06-07,Invoice payment received,Sales Revenue,12852.38,4000
+TXN-09010,2024-11-04,Warehouse lease,Rent,-3333.0,6100
+TXN-00515,2024-11-06,Savings interest,Interest Income,286.21,4900
+TXN-00923,2024-08-08,Stationery purchase,Office Supplies,-396.99,6300
+TXN-00470,2024-06-22,Deposit interest credit,Interest Income,377.8,4900
+TXN-00565,2024-03-31,Card processing fee,Bank Fees,-47.03,6900
+TXN-00775,2024-07-13,Card processing fee,Bank Fees,-30.8,6900
+TXN-00462,2024-07-23,Contractor fee,Vendor Payment,-7129.82,5100
+TXN-00254,2024-10-04,Electricity bill,Utilities,-941.14,6200
+TXN-00772,2024-09-27,Interest accrual,Interest Income,397.16,4900
+TXN-00846,2024-03-14,Invoice payment received,Sales Revenue,23713.58,4000
+TXN-00370,2024-05-24,Trade fair booth,Marketing,-6525.17,6500
+TXN-00322,2024-02-09,Contractor fee,Vendor Payment,-720.6,5100
+TXN-00696,2024-04-17,Employee wages,Payroll,-2248.07,6000
+TXN-00152,2024-06-20,Employee wages,Payroll,-5363.0,6000
+TXN-00932,2024-04-06,Monthly office rent,Rent,-5144.76,6100
+TXN-00303,2024-01-28,Invoice payment received,Sales Revenue,5139.41,4000
+TXN-00191,2024-11-17,Rent payment,Rent,-1876.32,6100
+TXN-00587,2024-02-26,Warehouse lease,Rent,-3235.27,6100
+TXN-00349,2024-07-12,Contractor fee,Vendor Payment,-7565.19,5100
+TXN-00244,2024-09-13,Monthly office rent,Rent,-4338.18,6100
+TXN-00794,2024-01-09,Card processing fee,Bank Fees,-134.85,6900
+TXN-00088,2024-01-06,Water utility,Utilities,-1099.57,6200
+TXN-00752,2024-03-06,Vendor payment - materials,Vendor Payment,-2959.95,5100
+TXN-00656,2024-11-20,Client dinner,Travel & Entertainment,-2851.98,6400
+TXN-00893,2024-10-25,Business trip - airfare,Travel & Entertainment,-1079.71,6400
+TXN-00779,2024-06-11,Monthly salary run,Payroll,-2636.62,6000
+TXN-00419,2024-12-17,Monthly salary run,Payroll,-11945.65,6000
+TXN-00289,2024-04-18,Business trip - airfare,Travel & Entertainment,-3477.92,6400
+TXN-00649,2024-11-04,Interest accrual,Interest Income,147.07,4900
+TXN-00167,2024-12-29,Electricity bill,Utilities,-701.38,6200
+TXN-00596,2024-08-03,Wire transfer fee,Bank Fees,-141.46,6900
+TXN-00920,2024-10-08,Monthly office rent,Rent,-3389.59,6100
+TXN-00156,2024-03-07,Monthly office rent,Rent,-1716.72,6100
+TXN-00357,2024-04-02,Contractor fee,Vendor Payment,-952.34,5100
+TXN-00382,2024-09-18,Deposit interest credit,Interest Income,353.72,4900
+TXN-00280,2024-04-15,Invoice payment received,Sales Revenue,8931.46,4000
+TXN-00127,2024-09-16,Customer deposit,Sales Revenue,9156.77,4000
+TXN-00708,2024-11-14,Hotel accommodation,Travel & Entertainment,-1060.15,6400
+TXN-00778,2024-07-27,Supplier invoice,Vendor Payment,-4115.7,5100
+TXN-00023,2024-06-23,Vendor payment - materials,Vendor Payment,-2462.58,5100
+TXN-00617,2024-12-19,Employee wages,Payroll,-9883.71,6000
+TXN-00666,2024-03-04,Monthly office rent,Rent,-892.88,6100
+TXN-00283,2024-12-20,Monthly office rent,Rent,-5866.97,6100
+TXN-00472,2024-12-29,Wire transfer fee,Bank Fees,-127.77,6900
+TXN-00739,2024-12-08,Online ad campaign,Marketing,-1177.73,6500
+TXN-00368,2024-08-03,Water utility,Utilities,-1154.68,6200
+TXN-00026,2024-03-23,Warehouse lease,Rent,-2580.5,6100
+TXN-00197,2024-07-12,Water utility,Utilities,-354.53,6200
+TXN-00065,2024-07-08,Office equipment,Office Supplies,-704.77,6300
+TXN-00016,2024-08-02,Online ad campaign,Marketing,-7347.26,6500
+TXN-00467,2024-08-19,Vendor payment - materials,Vendor Payment,-4137.26,5100
+TXN-00298,2024-06-18,Office equipment,Office Supplies,-490.71,6300
+TXN-00884,2024-01-27,Contractor fee,Vendor Payment,-739.17,5100
+TXN-00622,2024-05-11,Printer consumables,Office Supplies,-379.32,6300
+TXN-00337,2024-11-27,Deposit interest credit,Interest Income,40.78,4900
+TXN-00821,2024-05-03,Invoice payment received,Sales Revenue,24206.03,4000
+TXN-00027,2024-02-04,Stationery purchase,Office Supplies,-567.98,6300
+TXN-00589,2024-09-14,Wire transfer fee,Bank Fees,-31.23,6900
+TXN-00044,2024-06-06,Internet & telecom,Utilities,-253.82,6200
+TXN-00498,2024-12-16,Internet & telecom,Utilities,-266.81,6200
+TXN-00793,2024-06-15,Online ad campaign,Marketing,-6777.54,6500
+TXN-00516,2024-02-10,Supplier invoice,Vendor Payment,-8540.14,5100
+TXN-00938,2024-05-30,Vendor payment - materials,Vendor Payment,-7435.69,5100
+TXN-00562,2024-03-24,Product sale,Sales Revenue,5807.25,4000
+TXN-00918,2024-10-04,Online ad campaign,Marketing,-1790.33,6500
+TXN-00455,2024-03-05,Hotel accommodation,Travel & Entertainment,-2276.5,6400
+TXN-00388,2024-04-18,Account maintenance fee,Bank Fees,-23.46,6900
+TXN-00072,2024-01-27,Contractor fee,Vendor Payment,-3197.33,5100
+TXN-00543,2024-01-11,Supplier invoice,Vendor Payment,-1977.64,5100
+TXN-00457,2024-05-06,Supplier invoice,Vendor Payment,-6295.28,5100
+TXN-00634,2024-05-31,Electricity bill,Utilities,-718.99,6200
+TXN-00432,2024-04-13,Print advertising,Marketing,-1527.38,6500
+TXN-00628,2024-10-18,Water utility,Utilities,-923.24,6200
+TXN-00654,2024-04-25,Account maintenance fee,Bank Fees,-98.38,6900
+TXN-00729,2024-12-03,Printer consumables,Office Supplies,-837.66,6300
+TXN-00265,2024-01-28,Interest accrual,Interest Income,151.14,4900
+TXN-00210,2024-05-04,Online ad campaign,Marketing,-4678.36,6500
+TXN-00317,2024-01-21,Online ad campaign,Marketing,-3223.33,6500
+TXN-00897,2024-05-26,Client dinner,Travel & Entertainment,-215.17,6400
+TXN-00514,2024-01-19,Wire transfer fee,Bank Fees,-8.55,6900
+TXN-00314,2024-10-27,Employee wages,Payroll,-8900.8,6000
+TXN-00535,2024-05-31,Business trip - airfare,Travel & Entertainment,-3117.16,6400
+TXN-00830,2024-09-06,Product sale,Sales Revenue,15147.47,4000
+TXN-00320,2024-01-18,Online ad campaign,Marketing,-3651.67,6500
+TXN-00008,2024-08-19,Warehouse lease,Rent,-3059.73,6100
+TXN-00394,2024-07-28,Hotel accommodation,Travel & Entertainment,-2886.31,6400
+TXN-00142,2024-06-12,Monthly salary run,Payroll,-10142.84,6000
+TXN-00087,2024-11-25,Product sale,Sales Revenue,6483.02,4000
+TXN-00865,2024-11-18,Card processing fee,Bank Fees,-95.91,6900
+TXN-00479,2024-04-07,Monthly office rent,Rent,-1062.79,6100
+TXN-00504,2024-03-30,Wire transfer fee,Bank Fees,-148.06,6900
+TXN-00754,2024-03-13,Deposit interest credit,Interest Income,159.78,4900
+TXN-00216,2024-02-08,Payroll transfer,Payroll,-7639.9,6000
+TXN-00581,2024-02-02,Product sale,Sales Revenue,12549.41,4000
+TXN-00563,2024-09-28,Printer consumables,Office Supplies,-820.62,6300
+TXN-00399,2024-09-25,Employee wages,Payroll,-4795.39,6000
+TXN-00926,2024-02-14,Interest accrual,Interest Income,229.26,4900
+TXN-00669,2024-02-14,Interest accrual,Interest Income,388.23,4900
+TXN-00491,2024-10-11,Interest accrual,Interest Income,203.64,4900
+TXN-00253,2024-12-25,Supplier invoice,Vendor Payment,-2576.71,5100
+TXN-00908,2024-08-01,Contractor fee,Vendor Payment,-1365.4,5100
+TXN-00469,2024-11-10,Supplier invoice,Vendor Payment,-2198.56,5100
+TXN-00915,2024-10-31,Hotel accommodation,Travel & Entertainment,-1459.2,6400
+TXN-00358,2024-03-27,Wire transfer fee,Bank Fees,-147.3,6900
+TXN-00255,2024-08-25,Monthly office rent,Rent,-3589.74,6100
+TXN-00277,2024-02-09,Printer consumables,Office Supplies,-479.58,6300
+TXN-00179,2024-07-22,Savings interest,Interest Income,272.28,4900
+TXN-00282,2024-09-24,Stationery purchase,Office Supplies,-376.39,6300
+TXN-00391,2024-07-13,Trade fair booth,Marketing,-6290.36,6500
+TXN-00509,2024-04-06,Payroll transfer,Payroll,-10777.06,6000
+TXN-00750,2024-12-16,Supplier invoice,Vendor Payment,-5970.36,5100
+TXN-00584,2024-03-09,Customer deposit,Sales Revenue,2260.33,4000
+TXN-00130,2024-11-01,Rent payment,Rent,-2966.66,6100
+TXN-00145,2024-04-29,Deposit interest credit,Interest Income,217.88,4900
+TXN-09011,2024-05-11,Warehouse lease,Rent,-2030.85,6100
+TXN-00848,2024-03-08,Invoice payment received,Sales Revenue,11585.03,4000
+TXN-00646,2024-03-01,Water utility,Utilities,-739.34,6200
+TXN-00716,2024-05-24,Online ad campaign,Marketing,-2099.11,6500
+TXN-00906,2024-11-06,Trade fair booth,Marketing,-4845.62,6500
+TXN-00768,2024-05-18,Stationery purchase,Office Supplies,-135.06,6300
+TXN-00073,2024-11-13,Office equipment,Office Supplies,-637.22,6300
+TXN-00909,2024-07-10,Water utility,Utilities,-257.81,6200
+TXN-00236,2024-04-22,Trade fair booth,Marketing,-2170.77,6500
+TXN-00038,2024-04-25,Wire transfer fee,Bank Fees,-138.67,6900

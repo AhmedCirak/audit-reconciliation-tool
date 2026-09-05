@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Intermediate pipeline files
+src/_*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
