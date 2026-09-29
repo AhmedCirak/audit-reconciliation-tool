@@ -9,6 +9,7 @@ from openpyxl.utils import get_column_letter
 OUT = "../output/Audit_Reconciliation.xlsx"
 
 rec = pd.read_pickle("./_rec.pkl")
+rec = rec.drop(columns=["Seeded_Cause"])
 gl = pd.read_pickle("./_gl.pkl")
 bank = pd.read_pickle("./_bank.pkl")
 stats = pd.read_pickle("./_stats.pkl")
