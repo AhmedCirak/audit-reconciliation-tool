@@ -9,6 +9,7 @@ See CLAUDE.md for the full rules.
 
 from pathlib import Path
 
+import ollama
 import pandas as pd
 
 # Fixed set the model must choose exactly one from (see CLAUDE.md).
@@ -70,10 +71,25 @@ Explanation: <one sentence>
 """
 
 
+def explain_row(row, model="qwen2.5:7b"):
+    """Ask the local Ollama model to categorize and explain one exception row.
+
+    Python has already computed every fact in the prompt (see build_prompt);
+    the model only describes them and picks a category. Kept as the single
+    function that calls ollama.chat so the model name is easy to change.
+    """
+    prompt = build_prompt(row)
+    response = ollama.chat(
+        model=model,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    return response["message"]["content"]
+
+
 if __name__ == "__main__":
     rec_path = Path(__file__).parent / "_rec.pkl"
     rec = pd.read_pickle(rec_path)
     exceptions = rec[rec["Is_Exception"]].head(3)
     for _, row in exceptions.iterrows():
-        print(build_prompt(row))
+        print(explain_row(row))
         print("-" * 60)

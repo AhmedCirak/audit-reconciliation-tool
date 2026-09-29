@@ -113,6 +113,8 @@ bank["Description"] = bank["Description"].str.upper().str[:22]
 
 # --- Amount Mismatch: mijenjamo iznos u banci za dio transakcija ------
 mismatch_ids = list(RNG.choice(base_ids, N_MISMATCH, replace=False))
+MISMATCH_KIND_NAMES = {0: "mismatch_x10", 1: "mismatch_offset", 2: "mismatch_digits"}
+mismatch_kind_by_id = {}  # ground truth: Transaction_ID -> which mismatch kind was applied
 for tid in mismatch_ids:
     m = bank["Transaction_ID"] == tid
     old = bank.loc[m, "Amount"].iloc[0]
@@ -125,6 +127,7 @@ for tid in mismatch_ids:
     else:
         new = round(float(str(abs(old)).replace(".", "")[:4]) / 100 * np.sign(old), 2)
     bank.loc[m, "Amount"] = new
+    mismatch_kind_by_id[tid] = MISMATCH_KIND_NAMES[int(kind)]
 
 # --- Duplirani Transaction_ID-evi unutar iste tabele -------------------
 dup_gl_ids = list(RNG.choice(base_ids, N_DUP_GL, replace=False))
@@ -200,18 +203,41 @@ rec["Account"] = rec["Account"].fillna("N/A")
 rec["Amount"] = rec["Amount_GL"].fillna(rec["Amount_Bank"])
 rec["Abs_Amount"] = rec["Amount"].abs()
 
+# --- Seeded_Cause: ground truth for how this row was seeded above -----
+# Not derived from Status/matching - purely a record of which synthetic
+# generation step touched this Transaction_ID. Only used for validating
+# the pipeline; never passed to build_prompt or the model.
+gl_only_id_set = set(gl_only_ids)
+bank_only_id_set = set(bank_only_ids)
+dup_id_set = set(dup_gl_ids) | set(dup_bank_ids)
+
+
+def _seeded_cause(tid):
+    if tid in gl_only_id_set:
+        return "only_gl"
+    if tid in bank_only_id_set:
+        return "only_bank"
+    if tid in mismatch_kind_by_id:
+        return mismatch_kind_by_id[tid]
+    if tid in dup_id_set:
+        return "duplicate_id"
+    return "none"
+
+
+rec["Seeded_Cause"] = rec["Transaction_ID"].map(_seeded_cause)
+
 rec = rec[[
     "Transaction_ID", "Date", "Month", "Category", "Account",
     "Description_GL", "Description_Bank",
     "Amount_GL", "Amount_Bank", "Amount", "Abs_Amount", "Amount_Diff",
-    "Status", "Is_Exception", "Has_Duplicate_ID",
+    "Status", "Is_Exception", "Has_Duplicate_ID", "Seeded_Cause",
 ]].sort_values("Transaction_ID").reset_index(drop=True)
 
 rec.columns = [
     "Transaction_ID", "Date", "Month", "Category", "Account",
     "Description_GL", "Description_Bank",
     "Amount_GL", "Amount_Bank", "Amount", "Abs_Amount", "Amount_Diff",
-    "Status", "Is_Exception", "Has_Duplicate_ID",
+    "Status", "Is_Exception", "Has_Duplicate_ID", "Seeded_Cause",
 ]
 
 # ----------------------------------------------------------------------
