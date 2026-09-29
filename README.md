@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Audit Reconciliation & Financial Data Analysis Tool
 
 A Python + Excel tool that automates reconciliation between a General Ledger
@@ -68,3 +69,6 @@ including the Summary KPIs, Exceptions worklist, and PivotTables/PivotCharts.
 
 All data in this project is synthetically generated (seeded, not real
 transactions) for demonstration purposes.
+=======
+# audit-reconciliation-tool
+>>>>>>> 140fdfc7e2388bced9f7016b1c5044154cfd5a9b
